@@ -7,7 +7,7 @@ A simple API built with **Django REST Framework** for managing fitness classes a
 ## Features
 
 -  View all upcoming fitness classes
--  Create new classes (admin functionality)
+-  Create new classes
 -  Book a slot in a class
 -  View bookings by email
 -  Timezone-aware class schedules
@@ -27,7 +27,7 @@ A simple API built with **Django REST Framework** for managing fitness classes a
 ## Installation & Setup
 
 ```bash
-git clone https://github.com/yourusername/fitness-booking-api.git
+git clone https://github.com/vaisagh-mp/fitness_booking.git
 cd fitness-booking-api
 
 # Create virtual environment
